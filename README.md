@@ -1,17 +1,8 @@
-# simple_weather_app
+#Simple Weather App
 
-A new Flutter project.
+A lightweight and intuitive weather application built with Flutter that provides real-time weather updates based on the user's current location.
+App's core features are: real-time data fetching with OpenWeather API, location detecting with Geolocator and Geocoding, and dynamic UI using Lottie animations.
 
-## Getting Started
+<img width="424" height="864" alt="2026-05-04 21-10-41" src="https://github.com/user-attachments/assets/1e1f39be-70c0-4fcf-8ed5-03a007528991" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Through development of this project I learned how to handle HTTP GET requests, deepened my understanding of stateful widgets, learned how to effectively utilize third-party packages... 
